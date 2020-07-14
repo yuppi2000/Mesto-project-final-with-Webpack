@@ -29,6 +29,6 @@
 13. Сборка проекта Webpack.
 
 Ссылка на проект в Github Pages:
-[https://yuppi2000.github.io/mesto/]
+[https://yuppi2000.github.io/Mesto-project-final-with-Webpack/]
 
 
